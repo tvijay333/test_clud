@@ -1,4 +1,4 @@
 # test_clud
 # desciption 
-Hello This project is created for test purpose
-A part learning in cloud computing courses 
+Hello This project is created for a test purpose
+A part of learning in cloud computing courses 
